@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">音源周波数調査アプリ</string>
 
-    <string name="maintv_title">周囲で最も大きな音の周波数を検出します。</string>
+    <string name="maintv_title">最も大きな音の周波数を検出します。</string>
     <string name="maintv_mesg_frequency_to">周波数：</string>
     <string name="maintv_mesg_frequency_hz">Hz</string>
     <string name="maintv_mesg_receive_stats"></string>
